@@ -21,7 +21,6 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/Lauren.png" alt="TryHackMe">
 </div>
 
-<script src="https://tryhackme.com/badge/602276"></script>
 <!--
 **laurenchen0631/laurenchen0631** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
