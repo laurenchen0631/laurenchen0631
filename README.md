@@ -3,10 +3,19 @@
 ![Counter](https://komarev.com/ghpvc/?username=laurenchen0631)
 [![Github](https://img.shields.io/github/followers/laurenchen0631?label=Follow&style=social)](https://github.com/laurenchen0631)
 
+#### About Me
 
-#### Connect with me
 
-<div style="margin-top:10px" align="center">
+- 🔭 I’m currently studying Master's Science in University Of Southern California.
+- 🌱 I’m currently learning Artificial Intelligence and Game Development.
+- 💬 Ask me about: Cybersecurity, Python, Frontend Development
+- 📫 How to reach me: send a message through [Connect with me](#user-content-connect) or through my email.
+- ⚡ Fun fact: I always pursue new knowledge and play many and various video games.
+
+
+<h4 id="Connect">Connect with me</h4>
+
+<div style="margin-top:10px">
   <div>
     <a  href="https://www.linkedin.com/in/laurenchen0631/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
@@ -18,7 +27,6 @@
       <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="example"/>
     </a>
   </div>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Lauren.png" alt="TryHackMe">
 </div>
 
 <!--
@@ -26,15 +34,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+#### Github Activity
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=laurenchen0631&show_icons=true&include_all_commits=true&theme=onedark&count_private=true)
 <br>
