@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm PinChia (Lorne) Chen 👋
 
 ![Counter](https://komarev.com/ghpvc/?username=laurenchen0631)
 [![Github](https://img.shields.io/github/followers/laurenchen0631?label=Follow&style=social)](https://github.com/laurenchen0631)
