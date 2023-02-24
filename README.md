@@ -6,7 +6,7 @@
 #### About Me
 
 
-- 🔭 I’m currently studying Master's Science in University Of Southern California.
+- 🔭 I’m currently studying Master's Science of Computer Science in University Of Southern California.
 - 🌱 I’m currently learning Artificial Intelligence and Game Development.
 - 💬 Ask me about: Cybersecurity, Python, Frontend Development
 - 📫 How to reach me: send a message through [Connect with me](#user-content-connect) or through my email.
